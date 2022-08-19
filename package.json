@@ -1,0 +1,21 @@
+{
+  "name": "milkdown-vanilla-setup",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@milkdown/core": "6.3.2",
+    "@milkdown/plugin-emoji": "6.3.2",
+    "@milkdown/preset-commonmark": "6.3.2",
+    "@milkdown/prose": "6.3.2",
+    "@milkdown/theme-nord": "6.3.2",
+    "vite": "2.9.9"
+  },
+  "devDependencies": {
+    "typescript": "4.7.3"
+  },
+  "keywords": []
+}
