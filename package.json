@@ -9,9 +9,11 @@
   "dependencies": {
     "@milkdown/core": "6.3.2",
     "@milkdown/plugin-emoji": "6.3.2",
+    "@milkdown/plugin-math": "6.3.2",
     "@milkdown/preset-commonmark": "6.3.2",
     "@milkdown/prose": "6.3.2",
     "@milkdown/theme-nord": "6.3.2",
+    "remark-directive": "^2.0.1",
     "vite": "2.9.9"
   },
   "devDependencies": {
